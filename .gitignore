@@ -1,0 +1,19 @@
+# 仮想環境
+.venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# スクリプトが生成する一時ファイル
+*_temp.zip
+temp_extract_dir/
+
+# 出力ディレクトリ
+output/
+
+# macOS固有のファイル
+.DS_Store
+
+# Windows Thumbs.db
+Thumbs.db
